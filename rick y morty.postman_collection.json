@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "ab50211d-970b-46e9-9695-4075a3426cc3",
+		"name": "rick y morty",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39859492"
+	},
+	"item": [
+		{
+			"name": "todos los personajes",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "solo un personaje",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "filtrar personajes",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
